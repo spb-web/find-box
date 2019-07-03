@@ -1,0 +1,1 @@
+{"version":3,"file":"ShapeBox.d.ts","sourceRoot":"","sources":["../../../src/Shapes/ShapeBox.ts"],"names":[],"mappings":"AAAA;;;;;;;;GAQG;AACH,MAAM,CAAC,OAAO,OAAO,GAAG;IACtB,MAAM,EAAE,CAAC,MAAM,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,CAAC,CAAA;gBAE5B,MAAM,EAAC,CAAC,MAAM,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,CAAC;aAI/C,KAAK;aAIL,MAAM;IAIV,SAAS,CAAC,QAAQ,SAAI;;;;CAMvB"}
